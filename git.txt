@@ -1,4 +1,5 @@
-The purpose of the “git reset” command is to move the current HEAD to the commit specified
+git reset
+    The purpose of the “git reset” command is to move the current HEAD to the commit specified
 
 git reset --hard
     throw away all my staged and unstaged changes,forget everything on my current local branch and make it exactly the same as
